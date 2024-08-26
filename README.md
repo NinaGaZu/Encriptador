@@ -18,4 +18,22 @@
 </ul>
 
 <h2>Requisitos.</h2>
+<ul>
+  <li type="square">Debe funcionar solo con letras minúsculas</li>
+  <li type="square">No deben ser utilizados letras con acentos ni caracteres especiales</li>
+  <li type="square">Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.</li>
+  <br>
+  <div align="left"> 
+    <p>Ejemplo:</p> 
+    <p>"gato" => "gaitober"</p> 
+    <p>"gaitober" => "gato"</p> 
+  </div>
 
+  <li type="square">La página debe tener campos parainserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones.</li>
+  <li type="square">El resultado debe ser mostrado en la pantalla.</li>
+</ul>
+
+<h2>Extras.</h2>
+<ul>
+  <li type="square">Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.</li>
+</ul>
